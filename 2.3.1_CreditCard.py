@@ -1,7 +1,3 @@
-from cv2 import WARP_FILL_OUTLIERS
-from yaml import AnchorToken
-
-
 class CreditCard:
     """A consumer credit card"""
 
